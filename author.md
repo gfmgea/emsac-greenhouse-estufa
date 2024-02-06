@@ -23,6 +23,8 @@ And it makes me happy \o/
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=SQL)
+
 
 ### my stats and streak on GitHub
 
